@@ -87,11 +87,14 @@ data_readr <- read_csv("your_file_name.csv")
 
 Your team will be responsible for submitting the following:
 
-1.  **R Markdown Report:** A comprehensive, reproducible report (`.Rmd`
-    and `.md` file) that documents your entire investigation process
-    from data cleaning to final insights. The report should tell the
-    story of your data. I will be grading not only on correctness of the
-    analysis but by how easily it is to digest
+**R Markdown Report:** A comprehensive, reproducible report that
+documents your entire investigation process from data cleaning to final
+insights. The report should tell the story of your data. I will be
+grading not only on correctness of the analysis but by how easily it is
+to digest
+
+1.  `TP1.Rmd` - Your `Rmd` file that has all the code
+2.  `TP1.md` - The report file that displays all output and figures
 
 Here are some guidelines for the report
 
